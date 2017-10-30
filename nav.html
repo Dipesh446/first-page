@@ -1,0 +1,59 @@
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: Italic;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body bgcolor="#E6E6FA">
+<ul>
+  <li><a href="home.html">Home</a></li>
+  <li><a href="Events.html">Events</a></li>
+  <li><a href="wildlife.html">Wildlifes</a></li>
+  <li><a href="about.html">About us</a></li>
+</ul>
+ <div id="slider">
+<figure>
+<img src="3.jpg" alt>
+<img src="2.jpg" alt>
+<img src="1.jpg" alt>
+
+</figure>
+</div>
+<style>
+body { margin: 0; } 
+div#slider { overflow: hidden; }
+div#slider figure img { width: 20%; float: left; }
+div#slider figure { 
+  position: relative;
+  width: 500%;
+  margin: 0;
+  left: 0;
+  text-align: left;
+  font-size: 0;
+  animation: 30s slidy infinite; 
+}
+</style>
+</body>
+</html>
