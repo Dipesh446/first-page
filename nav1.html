@@ -42,16 +42,24 @@ li a:hover {
 </figure>
 </div>
 <style>
+img
+{height:100px;
+width:300px;}
 body { margin: 0; } 
 div#slider { overflow: hidden;
  position: relative;
-  width: 500%;
   margin: 0;
   left: 0;
   text-align: left;
   font-size: 0;
+animation-name:slide;
+animation-duration:30s;
   animation: 30s slidy infinite; 
  }
+@keyframes slide
+{ 0%{left:0px;}
+100%{left:-800px;}
+}
 div#slider figure img { width: 20%; float: left; }
 div#slider figure { 
  

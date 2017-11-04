@@ -1,0 +1,26 @@
+<html>
+<head>
+<title>My title</title>
+</head> 
+<body>
+<pre><center><i><h2>"Forests may be gorgeous but there is nothing more alive than a tree that learns how to grow in a cemetery."<h2></i></pre>
+<div id="images">
+<img src="wildlife.jpg" height="400" width="1340">
+</div>
+<h1><u>Intersting Facts about forestry.</u></h1>
+<h3>1. The Boreal forest (aka Taiga) is the largest land habitat on the planet.</h3>
+<img src="1st.jpg" height="400" width="1000">
+<p>It runs across northern USA and Canada, southern Iceland, across Norway, Finland, Sweden, through Russia, Kazakhstan, Mongolia and northern Japan. This region is one of the most threatened by climate change and has experienced some of the most dramatic temperature increases anywhere on Earth. Not to mention the threat from clearcutting for toilet paper, timber logging and, in Canada, tar sands oil extraction which now covers an area larger than England.</p>
+<h3>2. More than 25% of the medicines we use originate in rainforest plants.</h3>
+<img src="2nd.jpg" height="400" width="1000">
+<p>Yet only 1% of rainforest plants have been studied for medicinal properties. Every second an area of rainforest the size of a football pitch is cut down meaning every day we might lose a potential cure.</p>
+<h3>3. The tallest tree in the world is called Hyperion</h3>
+<img src="hyperion.jpg" height="400" width="1000">
+<p>It’s a coast redwood from California that measures an incredible 115.61m tall. The largest tree in the world by volume is a giant sequoia called General Sherman which has a trunk 10m round and contains an estimated 1486 cubic metres of wood.</p>
+<h3>8. The world’s oldest non-clonal tree is a recently-discovered and as yet unnamed Great Basin bristlecone pine tree from the White Mountains in California</h3>
+<img src="4th.jpg" height="400" width="1000">
+<p>It’s still living at an incredible 5063 years old. Old Tjikko is the oldest single-clonal tree (meaning a new trunk is grown from original roots) at an astonishing 9,550 years old. But if you thought it ended there, then you’ve never heard of Pando…</p>
+<p align="center">see also.</align><br>
+<a href=Wildlife.html>Wild life</a></p>
+</body>
+</html>

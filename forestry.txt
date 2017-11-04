@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>My title</title>
+</head> 
+<body>
+<pre><center><i><h2>"Forests may be gorgeous but there is nothing more alive than a tree that learns how to grow in a cemetery."<h2></i></pre>
+<div id="images">
+<img src="forestry.jpg" alt="Smiley face" height="400" width="1340">
+</div>
+<h1><u>Intersting Facts about forestry.</u></h1>
+<h3>1. The Boreal forest (aka Taiga) is the largest land habitat on the planet.</h3>
+<img src="1st.jpg" height="400" width="1000">
+<p>It runs across northern USA and Canada, southern Iceland, across Norway, Finland, Sweden, through Russia, Kazakhstan, Mongolia and northern Japan. This region is one of the most threatened by climate change and has experienced some of the most dramatic temperature increases anywhere on Earth. Not to mention the threat from clearcutting for toilet paper, timber logging and, in Canada, tar sands oil extraction which now covers an area larger than England.</p>
+<h3>2. More than 25% of the medicines we use originate in rainforest plants.</h3>
+<img src="2nd.jpg" height="400" width="1000">
+<p>Yet only 1% of rainforest plants have been studied for medicinal properties. Every second an area of rainforest the size of a football pitch is cut down meaning every day we might lose a potential cure.</p>
+<h3>3. The tallest tree in the world is called Hyperion</h3>
+<img src="hyperion.jpg" height="400" width="1000">
+<p>It’s a coast redwood from California that measures an incredible 115.61m tall. The largest tree in the world by volume is a giant sequoia called General Sherman which has a trunk 10m round and contains an estimated 1486 cubic metres of wood.</p>
+<h3>8. The world’s oldest non-clonal tree is a recently-discovered and as yet unnamed Great Basin bristlecone pine tree from the White Mountains in California</h3>
+<img src="4th.jpg" height="400" width="1000">
+<p>It’s still living at an incredible 5063 years old. Old Tjikko is the oldest single-clonal tree (meaning a new trunk is grown from original roots) at an astonishing 9,550 years old. But if you thought it ended there, then you’ve never heard of Pando…</p>
+<p align="center">see also.</align><br>
+<a href=Wildlife.html>Wild life</a></p>
+<p>List of conservation organizations[edit]
+African Wild Dog Conservancy - nonprofit dedicated to conserving wild dogs through research and education
+American Bird Conservancy
+Ancient Forest Alliance - Conserving old growth forests in British Columbia, Canada
+Appalachian Trail Conservancy (ATC) - 2,175-mile (3500 km) Appalachian National Scenic Trail from Maine to Georgia
+Bat Conservation International
+BirdLife Australia
+California Coastal Conservancy - government agency that manages 1,100 miles (1800 km) of coastline resources
+Center for Biological Diversity
+Central Park Conservancy - manages 843 acre (3.4 km²) Central Park under a contract with City of New York
+Comunidad Inti Wara Yassi - Bolivian non-governmental organisation
+Conservancy Association - Hong Kong's oldest non-governmental environmental organisation
+Conservancy of Southwest Florida
+Defenders of Wildlife
+Department of Conservation (New Zealand)
+Ducks Unlimited
+Durrell Wildlife Conservation Trust
+The Earth Organization - conserving Mother Earth
+European Wildlife (Europe) - Conservation of European Wilderness
+Great Swamp Watershed Association
+International Anti-Poaching Foundation
+Indian Council of Forestry Research and Education
+IUCN - International Union for the Conservation of Nature
+The Izaak Walton League of America - United States organization devoted since 1922 to the conservation of water, wildlife, woods, soil and air.
+The Land Conservancy (TLC) - British Columbia land trust modeled after the National Trust of Britain
+Los Angeles Conservancy - architectural and cultural heritage of greater Los Angeles
+Miami Conservancy District - Ohio agency that manages flood control of the Great Miami River
+National Audubon Society - is a non-profit environmental organization dedicated to conservation
+National Trust of Britain
+The Nature Conservancy - international land trust - 117 million acres (473,000 km²), 5,000 miles (8,000 km) of rivers
+Nature Conservancy of Canada - 1,400 properties, 1.8 million acres (7,300 km²)
+North China Institute of Water Conservancy and Hydroelectric Power - Chinese public university
+Ocean Conservancy - ocean ecosystems
+Open Space Institute - a conservation organization and think tank in the Eastern United States that has helped protect over 1,000,000 acres
+Operation Wallacea - International conservation NGO
+Organization for Bat Conservation
+PRBO Conservation Science - Advancing conservation through bird and ecosystem research.
+Pro Natura - 650 nature reserves in Switzerland (250 square kilometres)
+Rails-to-Trails Conservancy (RTC) - converted 13,150 miles (21,160 km) of former rail lines to trails
+Rainforest Trust
+Santa Monica Mountains Conservancy - California state agency - 55,000 acres (220 km²)
+Sierra Nevada Conservancy - state conservancy in California
+Ukraine Nature Conservation Society (UkrTOP)
+Western Pennsylvania Conservancy - 200,000 acres (800 km²)
+Whaleman Foundation - protection of cetaceans
+Wild Salmon Center - Identifies and protects the best salmon ecosystems of the Pacific Rim
+Wildlife Conservation Network - protecting endangered species and preserving their natural habitats by supporting entrepreneurial conservationists who pursue innovative strategies for people and wildlife to co-exist and thrive.
+Wildlife Conservation Society
+Wildlife Research and Conservation Trust
+Wolf River Conservancy - the Wolf River in Tennessee - 17,000 acres (69 km²)
+World Wildlife Fund - International Conservation
+Zoological Society of London</p>
+</body>
+</html>
