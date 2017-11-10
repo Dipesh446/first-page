@@ -1,12 +1,54 @@
+
 <html>
 <head>
-<title>My title</title>
+<title>Forestry</title>
 </head> 
 <body>
-<pre><center><i><h2>"Forests may be gorgeous but there is nothing more alive than a tree that learns how to grow in a cemetery."<h2></i></pre>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    padding: 14px 16px;
+    text-decoration: Italic;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+<body bgcolor="silver">
+<ul>
+  <li><a href="forestry.html">Home</a></li>
+  <li><a href="Events.html">Events</a></li>
+  <li><a href="donation.html">Donation</a></li>
+  <li><a href="contact.html">Contact us</a></li>
+</ul>
+<p><center><i><h2>"Forests may be gorgeous but there is nothing more alive than a tree that learns how to grow in a cemetery."<h2></i></center></p>
 <div id="images">
-<img src="forestry.jpg" alt="Smiley face" height="400" width="1340">
+<img src="forestry.jpg" height="400" width="1340">
+
 </div>
+<p><font size="4">A forest is a large area dominated by trees. Hundreds of more precise definitions of forest are used throughout the world, incorporating factors such as tree density, tree height, land use, legal standing and ecological function. According to the widely used Food and Agriculture Organization definition, forests covered four billion hectares (15 million square miles) or approximately 30 percent of the world's land area in 2006.<font><br>
+
+Forests are the dominant terrestrial ecosystem of Earth, and are distributed across the globe. Forests account for 75% of the gross primary productivity of the Earth's biosphere, and contain 80% of the Earth's plant biomass.<br>
+
+Forests at different latitudes and elevations form distinctly different ecozones: boreal forests near the poles, tropical forests near the equator and temperate forests at mid-latitudes. Higher elevation areas tend to support forests similar to those at higher latitudes, and amount of precipitation also affects forest composition.<br>
+
+Human society and forests influence each other in both positive and negative ways. Forests provide ecosystem services to humans and serve as tourist attractions. Forests can also affect people's health. Human activities, including harvesting forest resources, can negatively affect forest ecosystems.</p>
+
 <h1><u>Intersting Facts about forestry.</u></h1>
 <h3>1. The Boreal forest (aka Taiga) is the largest land habitat on the planet.</h3>
 <img src="1st.jpg" height="400" width="1000">
@@ -20,59 +62,33 @@
 <h3>8. The world’s oldest non-clonal tree is a recently-discovered and as yet unnamed Great Basin bristlecone pine tree from the White Mountains in California</h3>
 <img src="4th.jpg" height="400" width="1000">
 <p>It’s still living at an incredible 5063 years old. Old Tjikko is the oldest single-clonal tree (meaning a new trunk is grown from original roots) at an astonishing 9,550 years old. But if you thought it ended there, then you’ve never heard of Pando…</p>
+<p><u>List of organizations working for conservation.</u><br>
+<b>African Wild Dog Conservancy</b> - nonprofit dedicated to conserving wild dogs through research and education<br>
+<b>American Bird Conservancy</b><br>
+<b>Ancient Forest Alliance </b>- Conserving old growth forests in British Columbia, Canada<br>
+<b>Appalachian Trail Conservancy (ATC)</b> - 2,175-mile (3500 km) Appalachian National Scenic Trail from Maine to Georgia<br>
+<b>Bat Conservation International</b><br>
+<b>BirdLife Australia</b><br>
+<b>California Coastal Conservancy</b> - government agency that manages 1,100 miles (1800 km) of coastline resources<br>
+<b>Center for Biological Diversity</b><br>
+<b>Central Park Conservancy</b> - manages 843 acre (3.4 km²) Central Park under a contract with City of New York<br>
+<b>Comunidad Inti Wara Yassi</b> - Bolivian non-governmental organisation<br>
+<b>Conservancy Association </b>- Hong Kong's oldest non-governmental environmental organisation<br>
+<b>Conservancy of Southwest Florida</b><br>
+<b>Defenders of Wildlife</b><br>
+<b>Department of Conservation (New Zealand)</b><br>
+<b>Ducks Unlimited</b><br>
+<b>Durrell Wildlife Conservation Trust</b><br>
+<b>The Earth Organization</b> - conserving Mother Earth<br>
+<b>European Wildlife (Europe) </b>- Conservation of European Wilderness<br>
+<b>Great Swamp Watershed Association</b><br>
+<b>International Anti-Poaching Foundation</b><br>
+<b>Indian Council of Forestry Research and Education</b><br>
+<b>IUCN - International Union for the Conservation of Nature</b><br>
+<b>The Izaak Walton League of America </b>- United States organization devoted since 1922 to the conservation of water, wildlife, woods, soil and air.<br>
+<b>The Land Conservancy (TLC)</b> - British Columbia land trust modeled after the National Trust of Britain<br>
+<b>Los Angeles Conservancy</b></b> - architectural and cultural heritage of greater Los Angeles<br>
 <p align="center">see also.</align><br>
 <a href=Wildlife.html>Wild life</a></p>
-<p>List of conservation organizations[edit]
-African Wild Dog Conservancy - nonprofit dedicated to conserving wild dogs through research and education
-American Bird Conservancy
-Ancient Forest Alliance - Conserving old growth forests in British Columbia, Canada
-Appalachian Trail Conservancy (ATC) - 2,175-mile (3500 km) Appalachian National Scenic Trail from Maine to Georgia
-Bat Conservation International
-BirdLife Australia
-California Coastal Conservancy - government agency that manages 1,100 miles (1800 km) of coastline resources
-Center for Biological Diversity
-Central Park Conservancy - manages 843 acre (3.4 km²) Central Park under a contract with City of New York
-Comunidad Inti Wara Yassi - Bolivian non-governmental organisation
-Conservancy Association - Hong Kong's oldest non-governmental environmental organisation
-Conservancy of Southwest Florida
-Defenders of Wildlife
-Department of Conservation (New Zealand)
-Ducks Unlimited
-Durrell Wildlife Conservation Trust
-The Earth Organization - conserving Mother Earth
-European Wildlife (Europe) - Conservation of European Wilderness
-Great Swamp Watershed Association
-International Anti-Poaching Foundation
-Indian Council of Forestry Research and Education
-IUCN - International Union for the Conservation of Nature
-The Izaak Walton League of America - United States organization devoted since 1922 to the conservation of water, wildlife, woods, soil and air.
-The Land Conservancy (TLC) - British Columbia land trust modeled after the National Trust of Britain
-Los Angeles Conservancy - architectural and cultural heritage of greater Los Angeles
-Miami Conservancy District - Ohio agency that manages flood control of the Great Miami River
-National Audubon Society - is a non-profit environmental organization dedicated to conservation
-National Trust of Britain
-The Nature Conservancy - international land trust - 117 million acres (473,000 km²), 5,000 miles (8,000 km) of rivers
-Nature Conservancy of Canada - 1,400 properties, 1.8 million acres (7,300 km²)
-North China Institute of Water Conservancy and Hydroelectric Power - Chinese public university
-Ocean Conservancy - ocean ecosystems
-Open Space Institute - a conservation organization and think tank in the Eastern United States that has helped protect over 1,000,000 acres
-Operation Wallacea - International conservation NGO
-Organization for Bat Conservation
-PRBO Conservation Science - Advancing conservation through bird and ecosystem research.
-Pro Natura - 650 nature reserves in Switzerland (250 square kilometres)
-Rails-to-Trails Conservancy (RTC) - converted 13,150 miles (21,160 km) of former rail lines to trails
-Rainforest Trust
-Santa Monica Mountains Conservancy - California state agency - 55,000 acres (220 km²)
-Sierra Nevada Conservancy - state conservancy in California
-Ukraine Nature Conservation Society (UkrTOP)
-Western Pennsylvania Conservancy - 200,000 acres (800 km²)
-Whaleman Foundation - protection of cetaceans
-Wild Salmon Center - Identifies and protects the best salmon ecosystems of the Pacific Rim
-Wildlife Conservation Network - protecting endangered species and preserving their natural habitats by supporting entrepreneurial conservationists who pursue innovative strategies for people and wildlife to co-exist and thrive.
-Wildlife Conservation Society
-Wildlife Research and Conservation Trust
-Wolf River Conservancy - the Wolf River in Tennessee - 17,000 acres (69 km²)
-World Wildlife Fund - International Conservation
-Zoological Society of London</p>
 </body>
 </html>

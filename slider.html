@@ -1,0 +1,84 @@
+<Html>
+<head>
+<style>
+.outerbox
+{ 
+margin-top:85px;
+margin-left:175px;
+width:900px; 
+height:410px;
+overflow:hidden;
+border-radius: 0px;
+border:solid 2px black;
+border-radius: 7px;
+background-color: rgba(255,255,255,1);
+margin:0;
+}
+.sliderbox img
+{
+	width:895px;
+	height:410px;
+margin:0;
+	
+}
+.sliderbox
+{
+	position:relative;
+	width:2800px;
+	animation:slide 16s infinite;
+}
+@keyframes slide
+{ 
+	0%
+	{
+		left:0px;
+	}
+	20%
+	{
+		left:0px;
+	}
+	25%
+	{
+		left:-900px;
+	}
+	45%
+	{
+            left:-900px;
+	}
+	50%
+	{
+           left:-1800px;
+	}
+	70%
+	{
+           left:-1800px;
+	}
+	75%
+	{
+           left:-2700px;
+	}
+	95%
+	{ 
+          left:-2700px;
+	}
+	100%
+	{
+	 left:0px;
+	}
+
+}
+</style>
+</head>
+<body>
+<div class="outerbox">
+	<div class="sliderbox">
+		
+		<img src="forestry.jpg"/>
+		<img src="wildlife.jpg">
+		<img src="wildlife.jpg">
+		<img src="forestry.jpg">
+	</div>
+</div>
+
+</body>
+</html>
